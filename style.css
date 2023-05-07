@@ -145,7 +145,7 @@ margin-top: 2rem
     display: none; 
 }
 
-@media (max-width: 1440px){ 
+@media (max-width: 800px){ 
     .container{ 
         grid-template-areas: 
     "header"
